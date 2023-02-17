@@ -2,7 +2,7 @@
   "name": "web-building-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://robert-vaccaro.github.io/web-building-app/",
+  "homepage": "https://robert-vaccaro.github.io/web-building-app",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",

@@ -11,7 +11,7 @@ function App() {
   const [reports, setReports] = useState([])
 
   var getReports = () => {
-    fetch(`http://localhost:3001/get-reports`, {
+    fetch(`https://ancient-beach-83194.herokuapp.com/get-reports`, {
             method: 'post',
             headers: {
                 'Accept': 'application/json, text/plain, */*',
