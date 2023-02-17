@@ -38,5 +38,10 @@
 }
 
 .main-page{
-  
+  margin: 25px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: row;
 }
